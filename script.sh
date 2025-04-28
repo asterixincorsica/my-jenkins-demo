@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello, Nandini"
 ls -l
-touc file1
+touch file1
