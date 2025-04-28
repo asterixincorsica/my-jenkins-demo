@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, again from Jenkins"
+echo "Hello, Vijay patel"
