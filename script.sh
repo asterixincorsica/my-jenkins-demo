@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "Hello, Nandini"
-ls -l
-touch file1
+echo "Hello, $1!"
